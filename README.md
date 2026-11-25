@@ -1,9 +1,11 @@
 ﻿# 爆款全检报表
 
-原型设计页面（HTML）。
+原型设计页面（HTML），可直接对外分享预览链接。
 
-## 在线预览
+## 在线预览（对外分享用这个）
 
-启用 GitHub Pages 后，可通过仓库 Pages 地址打开。
+https://parktrevorxiex-source.github.io/baokuan-quanjian-baobiao/
 
-也可直接打开 `index.html` 本地预览。
+## 源码仓库
+
+https://github.com/parktrevorxiex-source/baokuan-quanjian-baobiao
